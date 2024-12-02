@@ -19,6 +19,6 @@ This is a React application that demonstrates dynamic component rendering, and s
 
 - Dynamic post addition functionality in the Profile component.
 - Basic navigation between Home and Profile pages.
-- Simple styling using CSS.
+- Responsive design using CSS.
 
 
